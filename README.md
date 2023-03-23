@@ -1,0 +1,2 @@
+API simples com 4 metodos : POST, PUT, DELETE, GET.
+Que retorna o : NOME, IDADE, TIME NBA, JOGADOR FAVORITO, TITULOS TIME. 
